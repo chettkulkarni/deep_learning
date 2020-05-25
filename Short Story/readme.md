@@ -6,6 +6,9 @@ Trust In Recommendation Systems
 * Robust Systems
 * Explanibility of the system
 
+**Presentation pdf:**
+[Presentation.pdf](https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf)
+
 **Medium Link: https://medium.com/@chettykulkarni/trust-in-recommender-systems-a-survey-c2b4c350ee6**
 
 **Slide Share Link https://www.slideshare.net/chettykulkarni/trustrecommendationsystem**
