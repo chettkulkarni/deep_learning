@@ -11,3 +11,6 @@ Trust In Recommendation Systems
 **Slide Share Link https://www.slideshare.net/chettykulkarni/trustrecommendationsystem**
 
 **Youtube Link https://www.youtube.com/watch?v=tzSKoio8ycY**
+
+
+[Presentation.pdf](https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf)
