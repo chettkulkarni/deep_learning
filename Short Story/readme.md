@@ -13,4 +13,9 @@ Trust In Recommendation Systems
 **Youtube Link https://www.youtube.com/watch?v=tzSKoio8ycY**
 
 
-[Presentation.pdf](https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf)
+
+<object data="https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/chettkulkarni/deep_learning/blob/master/Short%20Story/Trust_Chetan_Presentation_in_pdf.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
